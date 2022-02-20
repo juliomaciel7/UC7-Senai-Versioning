@@ -1,23 +1,23 @@
-# Atividade 1 UC 7 Versionamento SENAI Informática 🖥️
+# Activity 1 UC 7 Versioning SENAI Informática 🖥️
 
-## Objetivo da atividade: 
+## Purpose of the activity:
 
-+ Acesse o site https://git-scm.com/download/win.
-+ Instale a ferramenta GIT.
-+ Crie seu usuário e forneça um endereço de e-mail.
-+ Crie um repositório GIT local.
-+ Crie um arquivo para ser alterado e rastreado.
-+ Faça seu cadastro no GitHub: https://github.com 
-+ Crie um repositório on-line.
-+ Publique seu trabalho e faça alterações.
-+ Crie um arquivo README.md no repositório remoto para simular uma alteração feita por outro programador, elencando os principais comandos utilizados para gerenciar o versionamento de seu código e publique no repositório remoto.
++ Go to https://git-scm.com/download/win.
++ Install the GIT tool.
++ Create your username and provide an email address.
++ Create a local GIT repository.
++ Create a file to be changed and tracked.
++ Register on GitHub: https://github.com
++ Create an online repository.
++ Publish your work and make changes.
++ Create a README.md file in the remote repository to simulate a change made by another programmer, listing the main commands used to manage the versioning of your code and publish it in the remote repository.
 
-### Como descrito na última instrução, os códigos que eu utilizei foram:
+### As described in the last instruction, the codes I used were:
 + git init
 + git add .
-+ git commit -m "Descrição"
++ git commit -m "Description"
 
-### Após criar repositório remoto:
+### After creating remote repository:
 + git remote add origin <link>
 + git branch -M main
 + git push -u origin main
